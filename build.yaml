@@ -1,0 +1,11 @@
+# Build Configuration for Code Generation
+# Used by build_runner for generating Riverpod providers
+
+targets:
+  $default:
+    builders:
+      riverpod_generator:
+        options:
+          # Generate Riverpod providers with best practices
+          generate_for:
+            - lib/**/*.dart

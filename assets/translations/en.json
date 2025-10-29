@@ -1,0 +1,50 @@
+{
+  "app_name": "Shopit",
+  "app_description": "An e-commerce for easy shopping",
+
+  "splash_loading": "Loading...",
+  "splash_welcome": "Welcome",
+
+  "onboarding_title_1": "Welcome to Shopit E-commerce",
+  "onboarding_description_1": "Search for your desired products",
+  "onboarding_title_2": "Shop",
+  "onboarding_description_2": "Shop with us and pay with ease",
+  "onboarding_title_3": "Ready to Start",
+  "onboarding_description_3": "Everything you need to kickstart your e-commerce",
+  "onboarding_next": "Next",
+  "onboarding_skip": "Skip",
+  "onboarding_get_started": "Get Started",
+
+  "home_title": "Home",
+  "home_welcome": "Welcome Back!",
+
+  "settings_title": "Settings",
+  "settings_theme": "Theme",
+  "settings_theme_light": "Light",
+  "settings_theme_dark": "Dark",
+  "settings_theme_system": "System",
+  "settings_language": "Language",
+  "settings_about": "About",
+  "settings_version": "Version",
+  "settings_reset_onboarding": "Reset Onboarding",
+  "settings_reset_onboarding_description": "See the onboarding screens again",
+
+  "action_save": "Save",
+  "action_cancel": "Cancel",
+  "action_ok": "OK",
+  "action_yes": "Yes",
+  "action_no": "No",
+  "action_delete": "Delete",
+  "action_edit": "Edit",
+  "action_close": "Close",
+  "action_back": "Back",
+  "action_next": "Next",
+  "action_done": "Done",
+  "action_retry": "Retry",
+
+  "message_success": "Success!",
+  "message_error": "An error occurred",
+  "message_loading": "Loading...",
+  "message_no_data": "No data available",
+  "message_no_internet": "No internet connection"
+}
